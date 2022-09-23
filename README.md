@@ -1,6 +1,7 @@
-### Hi There!
+ 👋 Hi, I’m @Tungaa0523
 
-+name: Tungalagtuya
-+major: software engineering
-+https://github.com/Tungaa0523/learnGitBranching.git
+- 👀 I’m interested in reading books and attending voluteering activities
 
+- 🌱 I’m currently learning git programming in Hanyang university
+
+- 📫 How to reach me : t_tuya523@yahoo.com
